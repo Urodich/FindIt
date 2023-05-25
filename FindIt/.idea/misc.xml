@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Projects/FindIt/app/src/main/res/layout/activity_main.xml" value="0.30052083333333335" />
+        <entry key="..\:/Android Projects/FindIt/app/src/main/res/layout/activity_map.xml" value="0.268630849220104" />
+        <entry key="..\:/Android Projects/FindIt/app/src/main/res/layout/add_new_map_fragment.xml" value="0.3625" />
+        <entry key="..\:/Android Projects/FindIt/app/src/main/res/layout/contex_menu.xml" value="0.3625" />
+        <entry key="..\:/Android Projects/FindIt/app/src/main/res/layout/map_list_element.xml" value="0.33" />
+        <entry key="..\:/Android Projects/FindIt/app/src/main/res/menu/context_menu.xml" value="0.2671875" />
+        <entry key="..\:/FindIt/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/FindIt/app/src/main/res/layout/activity_map.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
